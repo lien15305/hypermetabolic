@@ -58,3 +58,20 @@ div#intro p {
 div#intro ul {
     padding-top: 20px;
 }
+div#article {
+    width: 420px;
+    min-width: 420px;
+    max-width: 420px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 120px;
+}
+div#article p {
+    padding-top: 20px;
+}
+div#article ul {
+    padding-top: 20px;
+}
+p.footer {
+    color: grey;
+}
